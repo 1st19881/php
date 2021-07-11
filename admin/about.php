@@ -2,13 +2,23 @@
 <div class="d-flex justify-content-center">
 <img src="img/unknown.png" class="img-fluid" alt="Responsive image" class="d-block w-100">
 </div>
-<?php include('navbar.php');  ?>
 <?php 
 include('head.php');
 ?>
+<?php 
+include('navbar.php');
+?>
 <div class="container">
-<?php  include('login.php'); ?>
+
+
+
+<div>
+    
 </div>
+
+</div>
+
+
 <?php 
 include('footer.php');
 ?>

@@ -4,7 +4,8 @@
 <br>
 <div class="d-flex justify-content-center">
 <div class="card w-75">
-  <div class="card-header p-4 bg-success">
+  <div class="card-header p-2 bg-success " >
+  <h5 class="text-white p-2">เข้าสู่ระบบ</h5>
   </div>
   <div class="card-body p-5" >
   <form action="checklogin.php" method="POST">
